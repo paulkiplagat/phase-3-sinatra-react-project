@@ -15,7 +15,7 @@ it will run on **http://localhost:9292**
 
 **start frontend**
 
-Clone the frontend for the React page: 
+Clone the frontend for page:**https://github.com/paulkiplagat/phase-3-sinatra-react-project-frontendthe React**  
 run npm install 
  and npm start to start  @ **http://localhost:3000**
  
