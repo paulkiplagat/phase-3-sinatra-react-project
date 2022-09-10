@@ -13,9 +13,9 @@ rake db:seed
 rake server
 it will run on **http://localhost:9292**
 
-**o start frontend**
+**start frontend**
 
 Clone the frontend for the React page: 
 run npm install 
- and npm start to start  @**http://localhost:9292**
+ and npm start to start  @ **http://localhost:3000**
  
